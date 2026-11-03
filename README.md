@@ -59,7 +59,3 @@ This project helped me improve my C++ programming skills and understand how diff
 
 
 SHRUTI YADAV
-
----
-
-**Thanks for checking out The Locked Room!**
